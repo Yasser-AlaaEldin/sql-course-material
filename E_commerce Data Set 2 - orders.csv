@@ -1,0 +1,41 @@
+customer_id,customer_name,item_name,item_count,paid_amount,transaction_date
+1,yasser,crocks,1,200,2023-07-01
+2,mohamed,T-shirt,3,1350,2023-07-01
+3,taha,Hat,2,400,2023-07-01
+4,fathy,Hat,1,150,2023-07-02
+5,hamada,Hat Used,1,55,2023-07-03
+6,ahmed,Hat,1,150,2023-07-03
+7,yousef,Hat,2,400,2023-07-04
+8,salah,shoes,1,435,2023-07-05
+9,yasser,shoes sports,1,435,2023-07-06
+10,ahmed,headphones,1,121,2023-07-06
+11,fathy,computer,1,19899,2023-07-06
+12,mohamed,keyboard slim,1,75,2023-07-06
+13,yosrya,keyboard mechanical,1,52,2023-07-06
+14,yasser,mouth normal,1,982,2023-07-06
+15,ahmed,crocks american,1,519,2023-07-06
+16,fathy,T-shirt british,1,852,2023-07-06
+17,mohamad,Hat cowboy,1,1,2023-07-06
+18,yosrya,baby bed,1,505,2023-07-06
+19,yosra,keyboard normal,2,1152,2023-07-07
+20,yasmeen,mouth gamming,1,301,2023-07-07
+21,yosrya,Hat Teen,1,92,2023-07-07
+22,yosra,Hat Teen,2,390,2023-07-08
+23,yasmen,headphones iphone,1,966,2023-07-09
+24,yosra,Labtop,1,9999,2023-07-10
+25,yasmeen,keyboard electronic,1,127,2023-07-11
+26,yasser,keyboard Mac,3,194,2023-07-12
+27,mohamad,mouth wireless,5,1617,2023-07-12
+28,fathy,BedRoom,1,54,2023-07-12
+29,ahmed,keyboard wireless,2,636,2023-07-13
+30,yosra,Labtop lenovo,1,19329,2023-07-13
+31,mohamed,childreen bed,1,198,2023-07-13
+32,fathy,mouth speedy,1,948,2023-07-14
+33,ahmed,Chair,4,2564,2023-07-14
+34,yosrya,TV,1,230,2023-07-14
+35,yosra,couch,2,329,2023-07-15
+36,yasmeen,couch,1,145,2023-07-16
+37,yasser,couch,1,635,2023-07-17
+38,fathy,Chair,1,760,2023-07-17
+39,ahmed,Chair,1,146,2023-07-18
+40,mohamad,Lazyboy chair,1,254,2023-07-18
