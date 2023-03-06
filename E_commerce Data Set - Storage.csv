@@ -1,0 +1,30 @@
+item_name,item_id,price,number_of_items_in_storage,Color,Category
+crocks,1,200,1000,Black,clothes
+T-shirt,2,450,600,White,clothes
+Hat,3,200,890,Blue,clothes
+Hat,4,150,359,Yellow,clothes
+Hat Used,5,55,129,Red,clothes
+Hat,6,150,1897,Green,clothes
+Hat,7,200,3189,Black,clothes
+shoes,8,435.0,0,White,clothes
+shoes sports,9,435.0,0,White,clothes
+headphones,10,121.4,2352,White,electronics
+computer,11,19899.0,712,silver,electronics
+keyboard slim,12,75.0,405,Black,electronics
+keyboard mechanical,13,51.8,346,Black,electronics
+keyboard normal,14,497,596,Black,electronics
+mouth gamming,15,586,880,Black,electronics
+mouth normal,16,39,494,Black,electronics
+crocks american,17,35,0,Black,clothes
+T-shirt british,18,874,600,White,clothes
+Hat cowboy,19,88,890,Blue,clothes
+Hat Teen,20,204,359,Yellow,clothes
+Hat Teen,21,506,129,Red,clothes
+headphones iphone,22,338,2352,White,electronics
+Labtop,23,9999,967,silver,electronics
+keyboard electronic,24,427,564,Black,electronics
+keyboard Mac,25,447,288,Black,electronics
+keyboard wireless,26,444,830,Black,electronics
+mouth speedy,27,395,88,Black,electronics
+mouth wireless,28,323,618,Black,electronics
+Labtop lenovo,29,19329,637,silver,electronics

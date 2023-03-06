@@ -1,0 +1,52 @@
+item_name,item_id,price,number_of_items_in_storage,Color,Category,profitability_categorization
+crocks,1,200,1000,Black,clothes,low profitable item
+T-shirt,2,450,600,White,clothes,high profitable item
+Hat,3,200,890,Blue,clothes,low profitable item
+Hat,4,150,359,Yellow,clothes,low profitable item
+Hat Used,5,55,129,Red,clothes,low profitable item
+Hat,6,150,1897,Green,clothes,low profitable item
+Hat,7,200,3189,Black,clothes,low profitable item
+shoes,8,435.0,0,White,clothes,low profitable item
+shoes sports,9,435.0,0,White,clothes,low profitable item
+headphones,10,121.4,2352,White,electronics,low profitable item
+computer,11,19899.0,213,silver,electronics,low profitable item
+keyboard slim,12,75.0,944,Black,electronics,low profitable item
+keyboard mechanical,13,51.8,542,Black,electronics,low profitable item
+keyboard normal,14,306,547,Black,electronics,high profitable item
+mouth gamming,15,410,57,Black,electronics,low profitable item
+mouth normal,16,807,922,Black,electronics,high profitable item
+crocks american,17,37,0,Black,clothes,low profitable item
+T-shirt british,18,420,600,White,clothes,high profitable item
+Hat cowboy,19,262,890,Blue,clothes,high profitable item
+Hat Teen,20,962,359,Yellow,clothes,low profitable item
+Hat Teen,21,8,129,Red,clothes,low profitable item
+headphones iphone,22,126,2352,White,electronics,low profitable item
+Labtop,23,9999,320,silver,electronics,low profitable item
+keyboard electronic,24,915,537,Black,electronics,high profitable item
+keyboard Mac,25,506,721,Black,electronics,high profitable item
+keyboard wireless,26,776,295,Black,electronics,low profitable item
+mouth speedy,27,45,799,Black,electronics,low profitable item
+mouth wireless,28,260,913,Black,electronics,high profitable item
+Labtop lenovo,29,19329,490,silver,electronics,low profitable item
+Chair,30,901,107,Brown,Furniture,low profitable item
+BedRoom,31,828,642,Red,Furniture,high profitable item
+childreen bed,32,703,334,Brown,Furniture,low profitable item
+TV,33,518,260,Black,electronics,low profitable item
+couch,34,132,129,Black,Furniture,low profitable item
+couch,34,335,383,White,Furniture,low profitable item
+couch,34,484,733,Blue,Furniture,high profitable item
+Chair,37,308,45,Black,Furniture,low profitable item
+Chair,38,990,60,Red,Furniture,low profitable item
+Lazyboy chair,39,1000,629,Brown,Furniture,high profitable item
+baby bed,40,561,729,white,Furniture,high profitable item
+baby chair,41,327,79,Brown,Furniture,low profitable item
+bean bag,42,265,688,Black,Furniture,high profitable item
+bean bag,42,156,567,Green,Furniture,low profitable item
+sofra,44,595,325,silver,Furniture,low profitable item
+modern sofra,45,280,107,Yellow,Furniture,low profitable item
+modern couch,46,888,937,Black,Furniture,high profitable item
+pencil,47,475,153,black,school stuff,low profitable item
+pen,48,883,35,Red,school stuff,low profitable item
+bag,49,952,13,Purple,school stuff,low profitable item
+pen,50,390,229,Blue,school stuff,low profitable item
+eraser,51,88,159,white,school stuff,low profitable item

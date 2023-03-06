@@ -1,0 +1,13 @@
+customer_id,customer_name,home_location,Age,Email,phone
+1,yasser,Mansoura,8,yasser@gmail.com,100360693
+2,mohamed,"b-City, cairo",57,mohamed@gmail.com,100868183
+3,taha,"Tanta,",9,taha@gmail.com,100856349
+4,fathy,"b-City, cairo",11,fathy@gmail.com,100228324
+5,hamada,"Nasr City, cairo",33,hamada@gmail.com,100856237
+6,ahmed,"b-City, cairo",90,ahmed@gmail.com,100863360
+7,yousef,"Nasr City, cairo",3,yousef@gmail.com,100355236
+8,salah,"a-City, cairo",29,salah@gmail.com,100361290
+9,yasser,"a-City, cairo",40,yasser@gmail.com,100457583
+10,ahmed,"b-City, cairo",66,ahmed@gmail.com,100246930
+11,fathy,Mansoura,87,fathy@gmail.com,100758264
+12,mohamed,"b-City, cairo",7,mohamed@gmail.com,100538861
