@@ -1,0 +1,100 @@
+complain_id,complain_reason,order_id
+1,delivery delay,354
+2,food was cold,254
+3,delivery delay,127
+4,food quality is low,58
+5,food quality is low,447
+6,delivery delay,247
+7,delivery delay,55
+8,delivery delay,260
+9,delivery delay,14
+10,delivery delay,19
+11,missing items,356
+12,delivery delay,37
+13,bad packaging,225
+14,delivery delay,105
+15,delivery delay,276
+16,delivery delay,339
+17,bad packaging,274
+18,delivery delay,405
+19,missing items,381
+20,food was cold,181
+21,delivery delay,18
+22,food was cold,403
+23,food was cold,234
+24,food quality is low,449
+25,delivery delay,248
+26,delivery delay,458
+27,delivery delay,331
+28,food was cold,426
+29,delivery delay,235
+30,delivery delay,57
+31,delivery delay,229
+32,bad packaging,371
+33,delivery delay,285
+34,delivery delay,463
+35,delivery delay,369
+36,delivery delay,108
+37,delivery delay,304
+38,unprofessional delivery man,452
+39,delivery delay,41
+40,food was cold,94
+41,delivery delay,121
+42,food was cold,246
+43,delivery delay,216
+44,delivery delay,421
+45,delivery delay,190
+46,food quality is low,445
+47,delivery delay,172
+48,delivery delay,89
+49,delivery delay,232
+50,delivery delay,388
+51,delivery delay,48
+52,food was cold,16
+53,unprofessional delivery man,334
+54,bad packaging,329
+55,delivery delay,242
+56,delivery delay,12
+57,food was cold,409
+58,delivery delay,439
+59,food was cold,494
+60,delivery delay,119
+61,food was cold,98
+62,delivery delay,228
+63,food was cold,253
+64,food was cold,379
+65,delivery delay,145
+66,delivery delay,400
+67,delivery delay,404
+68,unprofessional delivery man,203
+69,delivery delay,151
+70,food was cold,72
+71,unprofessional delivery man,169
+72,delivery delay,344
+73,delivery delay,437
+74,food quality is low,279
+75,delivery delay,424
+76,delivery delay,251
+77,delivery delay,472
+78,food was cold,364
+79,food was cold,262
+80,unprofessional delivery man,398
+81,bad packaging,201
+82,delivery delay,148
+83,delivery delay,429
+84,food was cold,321
+85,delivery delay,236
+86,delivery delay,367
+87,food was cold,22
+88,delivery delay,267
+89,delivery delay,493
+90,unprofessional delivery man,231
+91,delivery delay,88
+92,unprofessional delivery man,318
+93,delivery delay,385
+94,delivery delay,373
+95,delivery delay,477
+96,delivery delay,423
+97,food was cold,27
+98,food was cold,399
+99,delivery delay,417

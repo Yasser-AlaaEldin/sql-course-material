@@ -1,0 +1,36 @@
+restaurant_id,restaurant_name,restaurant_category,subscribtion_start_date,subscribtion_end_date,subscribtion_status
+1,best crep,fast food,2022-01-02,NA,live
+2,mcdonalds,fast food,2022-01-02,NA,live
+3,kfc,fast food,2022-01-03,NA,live
+4,hardees,fast food,2022-01-04,2022-06-10,stopped
+5,shawermer,fast food,2022-01-02,NA,live
+6,el eman,fast food,2022-01-02,NA,live
+7,zezo,fast food,2022-01-03,NA,live
+8,el prince,fast food,2022-01-04,2022-08-19,stopped
+9,waffilisious,dessert,2022-01-05,NA,live
+10,hamza,fast food,2022-01-06,NA,live
+11,belal ,fast food,2022-01-05,NA,live
+12,abo mazen,fast food,2022-01-06,NA,live
+13,shawerma el reem,fast food,2022-01-05,NA,live
+14,best burger,fast food,2022-01-06,NA,live
+15,passtawessy,fast food,2022-01-07,NA,live
+16,panda house,fast food,2022-01-08,NA,live
+17,papa jones,fast food,2022-01-09,NA,live
+18,pizza master,fast food,2022-01-10,NA,live
+19,healthy and testy ,healthy,2022-01-11,NA,live
+20,fiesta,healthy,2022-01-12,NA,live
+21,home made foodies,home made,2022-01-10,NA,live
+22,set el bet,home made,2022-01-11,NA,live
+23,super mama,home made,2022-01-12,NA,live
+24,max burger,home made,2022-01-12,2022-09-08,stopped
+25,fresh drinks,drinks,2022-01-13,NA,live
+26,ma2moon drinks,drinks,2022-01-12,NA,live
+27,cool drinks,drinks,2022-01-12,NA,live
+28,drink cola,drinks,2022-01-13,NA,live
+29,nasr city drink,drinks,2022-01-12,NA,live
+30,best drinks,drinks,2022-01-12,NA,live
+31,best waffile,desserts,2022-01-13,NA,live
+32,choco,desserts,2022-01-12,NA,live
+33,pepo,desserts,2022-01-13,NA,live
+34,hero sugar,desserts,2022-01-14,NA,live
+35,sugar addicts,desserts,2022-01-15,NA,live
