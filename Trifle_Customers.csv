@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Email,PhoneNumber,OrderID,Comments,Apartment,Street,City,Country,Perfume
+1,ahmed,Hany,ahmed_hany@gmail.com,+201001234567,1001,Great customer service!!!,25B, Main Street, Cairo, Egypt,Lacoste
+2,MOHAMED,ali,mohamed.ali1990@gmail.com,+201223334455,1002,liked the product!,55, North Rd., Alexandria, Egypt,Lacoste
+3,Salma,farah,salma.farah@outlook.com,01025678901,1003,Ordered late at night,Apt 3, 10th Ave, Giza, Egypt,invictus
+4,Amr,abdulrrahman,amr_abdulrrahman@hotmail.com,01200987654,1004,Amazing quality!,30 West, Downtown,cairo, Egypt,invictus
+5,Fatima,Shokry,fatima.s@gmail.com,01067843219,1005,Delivery took too long.,Flat 45, Central District,mansoura,,invictus
+6,Said,maHER,said_987@eldataschool.com,NULL,1006,product damaged,101, Nile Corniche,aswan, Egypt,Lacoste
+7,Omar,Mostafa,omar123@hotmail.com,+201345678901,1007,Will reorder soon.,12, River St., Aswan, Egypt,invictus
+8,Rania,Zaky,rania_zaky@gmail.com,+201876543210,1008,Customer support was slow.,47, South Blvd., Port Said, Egypt,invictus
+9,laila,osman,laila.osman@gmail.com,01099887766,1009,Great product but wrong size.,Apt 11, Park Lane,alex, Egypt,invictus
+10,Karim,Shaker,karim_shaker@yahoo.com,+202234567890,1010,Would recommend to friends.,21B, North Plaza,alex, Egypt,Lacoste
