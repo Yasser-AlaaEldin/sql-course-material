@@ -1,0 +1,21 @@
+student_id,student_name,Email,Phone,course_name,enrollment_date,progress,last_activity_date
+1,Yasser Alaa,yasser.alaaeldin6@gmail.com,1119087303,Data Analytics with Google Sheets,2025-09-10,85,2025-11-08
+2,Sara Ali,ammarsayed1988@gmail.com,1069769196,Excel Foundations,2025-09-05,40,2025-10-15
+3,Omar Hassan,Omar Hassan@gmail.com,1069769197,Power BI for Business,2025-08-20,100,2025-11-09
+4,Mona Tarek,Mona Tarek@gmail.com,1069769198,SQL for Analysts,2025-09-15,15,2025-09-30
+5,Youssef Nabil,Youssef Nabil@gmail.com,1069769199,Python for Data Automation,2025-10-01,60,2025-10-30
+6,Hany Mohamed,Hany Mohamed@gmail.com,1069769200,Data Storytelling & Visualization,2025-09-20,50,2025-10-18
+7,Eman Farouk,Eman Farouk@gmail.com,1069769201,Power BI for Business,2025-09-10,70,2025-11-01
+8,Karim Hassan,Karim Hassan@gmail.com,1069769202,Excel Foundations,2025-08-25,20,2025-09-25
+9,Rana Mohamed,Rana Mohamed@gmail.com,1069769203,SQL for Analysts,2025-10-05,30,2025-10-08
+10,Sherif Samir,Sherif Samir@gmail.com,1069769204,Python for Data Automation,2025-09-30,90,2025-11-08
+11,Nour Ahmed,Nour Ahmed@gmail.com,1069769205,Data Analytics with Google Sheets,2025-08-10,10,2025-09-10
+12,Ali Fathy,Ali Fathy@gmail.com,1069769206,Power BI for Business,2025-10-10,55,2025-10-28
+13,Rania Saeed,Rania Saeed@gmail.com,1069769207,Excel Foundations,2025-09-01,25,2025-09-20
+14,Mohamed Adel,Mohamed Adel@gmail.com,1069769208,SQL for Analysts,2025-08-28,100,2025-11-09
+15,Dalia Hossam,Dalia Hossam@gmail.com,1069769209,Python for Data Automation,2025-10-15,65,2025-11-07
+16,Kareem Lotfy,Kareem Lotfy@gmail.com,1069769210,Data Storytelling & Visualization,2025-09-18,80,2025-11-08
+17,Reem Tamer,Reem Tamer@gmail.com,1069769211,Excel Foundations,2025-09-10,45,2025-10-01
+18,Amr Khaled,Amr Khaled@gmail.com,1069769212,Power BI for Business,2025-09-25,35,2025-10-15
+19,Lina Mostafa,Lina Mostafa@gmail.com,1069769213,SQL for Analysts,2025-09-05,50,2025-10-05
+20,Omar Younes,Omar Younes@gmail.com,1069769214,Data Analytics with Google Sheets,2025-08-30,90,2025-11-09
